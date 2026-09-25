@@ -1,0 +1,6 @@
+{
+  "name": "GigiPintar - Edukasi Kesehatan Gigi & Mulut",
+  "description": "Aplikasi edukasi interaktif dan ceria tentang kesehatan gigi dan mulut untuk anak-anak dan remaja Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
